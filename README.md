@@ -23,5 +23,7 @@ How to Use
 Download the executable file.
 Run the executable to install and configure Sysmon with your Wazuh agent.
 For uninstallation, run the uninstall executable provided.
+Don't forget to run as Administrator for a smooth process.
+
 Support
 If you have any questions or need further assistance, feel free to reach out. Happy monitoring! 😊
