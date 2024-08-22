@@ -62,7 +62,7 @@ Need to uninstall Sysmon? No problem! Just run the provided uninstall executable
    - Choose or create a folder where these files will be extracted temporarily for the uninstallation process.
 
 4. **Ensure Administrative Rights**
-   - Right-click on `sysmon_wazuh_uninstall.exe` and select `Run as administrator` to ensure that the uninstallation completes smoothly.
+   - Right-click on `sysmon_wazuh_uninstall.bat` and select `Run as administrator` to ensure that the uninstallation completes smoothly.
 
 5. **Verify Removal**
    - Check to ensure that Sysmon has been successfully removed by verifying that Sysmon no longer appears in Task Manager and that related files have been deleted from the installation directory.
