@@ -1,7 +1,7 @@
 # wazuh
 I am a Wazuh user who loves experimenting with Wazuh and always strives to make it better for monitoring.
 
-# 🚀 Streamline Your Wazuh Integration with Sysmon: One-Click Solution! 🚀
+# 🚀 Streamline Your Sysmon Integration with Wazuh: One-Click Solution! 🚀
 
 Are you tired of the complex procedures involved in installing and configuring Sysmon with your Wazuh agent? This tool is here to simplify the process and make your life easier!
 
